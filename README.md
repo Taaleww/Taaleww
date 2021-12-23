@@ -1,16 +1,10 @@
-### Hi there 👋
+### Hi, I'm Nanthakan Rujilakhanon 👋
 
-<!--
-**Taaleww/Taaleww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+About me:
 - 🔭 I’m currently working on KMUTT
 - 🌱 I’m currently learning UX&UI Designer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on UX&UI Designer
+- 💬 Ask me about Anything
 - 📫 How to reach me: nantakarn.1.01@gmail.com
-- 😄 Pronouns: Taalew
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She/Her
+
