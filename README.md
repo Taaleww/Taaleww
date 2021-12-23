@@ -7,4 +7,6 @@ About me:
 - 💬 Ask me about Anything
 - 📫 How to reach me: nantakarn.1.01@gmail.com
 - 😄 Pronouns: She/Her
+- 🗂 Resume: 
+
 
