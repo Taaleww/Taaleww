@@ -8,6 +8,6 @@ About me:
 - 📫 How to reach me: nantakarn.1.01@gmail.com
 - 😄 Pronouns: She/Her
 - 🗂 Resume: https://drive.google.com/file/d/1E0886liMmMM4rZj7T_Asb-kQK8OAW1pR/view?usp=sharing
-- 📝 Portfolio: https://drive.google.com/file/d/1PefL17zUDbWOaZBnzBwTYZBZW1wolWQo/view?usp=sharing
+- 📝 Portfolio: https://drive.google.com/file/d/1SRvdDoYDQ9T2fY4n7Vfxjht--1pHkIye/view?usp=sharing
 
 
