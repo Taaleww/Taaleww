@@ -1,7 +1,7 @@
 ### Hi, I'm Nanthakan Rujilakhanon 👋
 
 About me:
-- 🔭 I’m currently working on KMUTT
+- 🔭 I graduated with a bachelor's degree in Computer Engineering from King Mongkut's University of Technology Thonburi
 - 🌱 I’m currently learning Frontend Developer
 - 👯 I’m looking to collaborate on Frontend Developer
 - 💬 Ask me about Anything
